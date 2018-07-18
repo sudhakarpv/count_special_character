@@ -1,4 +1,3 @@
-# count_special_character
 def main():
     pass
     n=input()
